@@ -1,0 +1,10 @@
+[200~# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Reports: ignore everything inside, except the placeholder
+reports/
