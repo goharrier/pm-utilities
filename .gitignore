@@ -8,3 +8,4 @@ __pycache__/
 
 # Reports: ignore everything inside, except the placeholder
 reports/
+OLD/
